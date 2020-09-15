@@ -1,0 +1,96 @@
+*{
+	margin: 0 auto;
+}
+
+body{
+	background: linear-gradient(72deg,#203141,#011224,#04162c,#18273a,#011226);
+	
+}
+
+h1{
+	text-align: center;
+	color: white;
+	margin: 20px 0;
+	padding: 10px 10px;
+}
+
+.form{
+	margin: 20px auto;
+	width: 400px;
+	height: 460px;
+	background-color: rgba(0,9,18,1);
+}
+
+.form input{
+	width: 80%;
+	display: block;
+	padding: 10px 10px;
+	margin: 20px auto;
+	text-align: center;
+	background: transparent;
+	color: white;
+	border-radius: 4px;
+	border: 1px solid white;
+	font-weight: bold;
+}
+
+.submit-btn{
+	background: #16293a !important;
+	width: 85% !important;
+	border: none !important;
+	padding: 8px 10px !important;
+}
+
+.form form p{
+	text-align: center;
+	color: white;
+	font-size: 12px;
+	font-family: calibri;
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.icon{
+	padding: 10px 10px;
+
+
+}
+.icon p{
+	
+	color: white;
+	text-align: center;
+
+}
+
+.icon button{
+	width: 30px;
+	height: 30px;
+	border-radius: 50%;
+	line-height: 28px;
+	font-size: 15px;
+	color: white;
+
+}
+
+.item-1{
+	background-color: #507cc0;
+	border: 1px solid #507cc0;
+	margin: 5px 7px;
+}
+.item-2{
+	background-color: #64ccf1;
+	border: 1px solid #64ccf1;
+	margin: 5px 7px;
+}
+.item-3{
+	background-color: #df4930;
+	border: 1px solid #df4930;
+	margin: 5px 7px;
+}
+
+h6{
+	color: white;
+	text-align: center;
+	padding: 20px 10px;
+}
